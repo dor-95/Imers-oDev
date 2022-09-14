@@ -55,11 +55,3 @@ function dicaNumeroSecreto(chute, elementoResultado) {
       "Você Errou! O número secreto é MENOR que " + chute;
   }
 }
-
-/*Desafios
-
-Colocar um numero de tentativas (3 tentativas);
-Na mensagem de erro, mostre, se o numero e maior ou menor que o numero secreto;
-Diferença entre == e ===;
-Scuba Dev
-*/
